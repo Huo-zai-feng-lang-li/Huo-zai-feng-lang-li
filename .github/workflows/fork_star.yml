@@ -6,7 +6,7 @@ on:
     types:
       - started
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,4 +17,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          template: "sun0225SUN's profile with <starCount> stars and <forkCount> forks 🎉"
+          template: "Huo-zai-feng-lang-li's profile with <starCount> stars and <forkCount> forks 🎉"
