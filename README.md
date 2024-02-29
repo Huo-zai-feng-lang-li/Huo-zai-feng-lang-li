@@ -19,13 +19,14 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.csdn.net/m0_57904695?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://huo-zai-feng-lang-li.github.io/Website-zhangkun/home.html" target="_blank"><img src="https://img.shields.io/badge/Website-个人搭建网站-blue" /></a>&emsp;
+      <a href="https://huo-zai-feng-lang-li.github.io/vue3-tools-docs/" target="_blank"><img src="https://img.shields.io/badge/WeChat-NPM文档-07c160" /></a>&emsp;
+    <a href="https://twitter.com/i/flow/login" target="_blank"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/?hl=zh-cn" target="_blank"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://github.com/Huo-zai-feng-lang-li/export-diyStyle-js/blob/main/WeChat.jpg" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://www.bilibili.com/video/BV1uz421d7Ch/?vd_source=5e9e4eda306e9f4a06044b5dcea74a7d" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/m0_57904695?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
