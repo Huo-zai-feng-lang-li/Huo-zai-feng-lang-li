@@ -231,11 +231,12 @@ Last Updated on 29/02/2024 01:13:50 UTC
 
 <!-- metrics 基础资料 -->
 
+<div align="center" style="display: flex;">
 <img width="150" src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/cxyduck.gif" />&emsp;
-
 <!-- <img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/base.svg" /> -->
 <img src="./github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/cxyduck.gif" />
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
