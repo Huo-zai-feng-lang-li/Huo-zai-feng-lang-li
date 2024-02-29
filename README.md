@@ -20,12 +20,12 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.csdn.net/m0_57904695?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="想要联系我?"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@Huo-zai-feng-lang-li"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -232,7 +232,9 @@ Last Updated on 29/02/2024 01:13:50 UTC
 <!-- metrics 基础资料 -->
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/base.svg" />
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/base.svg" /> -->
+<img src="./github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -377,10 +379,10 @@ Last Updated on 29/02/2024 01:13:50 UTC
     <td><img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
+  </tr> -->
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
