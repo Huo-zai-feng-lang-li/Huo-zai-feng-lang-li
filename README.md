@@ -19,8 +19,8 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://huo-zai-feng-lang-li.github.io/Website-zhangkun/home.html" target="_blank"><img src="https://img.shields.io/badge/Website-个人搭建网站-blue" /></a>&emsp;
-      <a href="https://huo-zai-feng-lang-li.github.io/vue3-tools-docs/" target="_blank"><img src="https://img.shields.io/badge/WeChat-NPM文档-07c160" /></a>&emsp;
+    <a href="https://huo-zai-feng-lang-li.github.io/Website-zhangkun/home.html" target="_blank"><img src="https://img.shields.io/badge/Website-个人转发引擎-blue" /></a>&emsp;
+    <a href="https://huo-zai-feng-lang-li.github.io/vue3-tools-docs/" target="_blank"><img src="https://img.shields.io/badge/Doc-NPM文档-07c160" /></a>&emsp;
     <a href="https://twitter.com/i/flow/login" target="_blank"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/?hl=zh-cn" target="_blank"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://github.com/Huo-zai-feng-lang-li/export-diyStyle-js/blob/main/WeChat.jpg" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
