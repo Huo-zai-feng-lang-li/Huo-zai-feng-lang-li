@@ -19,16 +19,16 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://huo-zai-feng-lang-li.github.io/Website-zhangkun/home.html" target="_blank"><img src="https://img.shields.io/badge/Website-个人转发引擎-blue" /></a>&emsp;
-    <a href="https://huo-zai-feng-lang-li.github.io/vue3-tools-docs/" target="_blank"><img src="https://img.shields.io/badge/Doc-NPM文档-07c160" /></a>&emsp;
-    <a href="https://twitter.com/i/flow/login" target="_blank"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/?hl=zh-cn" target="_blank"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://github.com/Huo-zai-feng-lang-li/export-diyStyle-js/blob/main/WeChat.jpg" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://www.bilibili.com/video/BV1uz421d7Ch/?vd_source=5e9e4eda306e9f4a06044b5dcea74a7d" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/m0_57904695?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://huo-zai-feng-lang-li.github.io/Website-zhangkun/home.html" target="_blank"><img src="https://img.shields.io/badge/Website-个人转发引擎-blue" title='个人搜索引擎' alt='个人搜索引擎'/></a>&emsp;
+    <a href="https://huo-zai-feng-lang-li.github.io/vue3-tools-docs/" target="_blank"><img src="https://img.shields.io/badge/Doc-NPM文档-07c160" title='Doc-NPM文档' alt='Doc-NPM文档'/></a>&emsp;
+    <a href="https://twitter.com/i/flow/login" target="_blank"><img src="https://img.shields.io/badge/Twitter-推特-blue" title='推特' alt='推特'/></a>&emsp;
+    <a href="https://www.youtube.com/?hl=zh-cn" target="_blank"><img src="https://img.shields.io/badge/YouTube-油管-c32136" title='油管' alt='油管'/></a>&emsp;
+    <a href="https://github.com/Huo-zai-feng-lang-li/export-diyStyle-js/blob/main/WeChat.jpg" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" title='微信' alt='微信'/></a>&emsp;
+    <a href="https://www.bilibili.com/video/BV1uz421d7Ch/?vd_source=5e9e4eda306e9f4a06044b5dcea74a7d" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" title='B站' alt='B站'/></a>&emsp;
+    <a href="https://blog.csdn.net/m0_57904695?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" title='CSDN' alt='CSDN'/></a>&emsp;
+    <a href="https://www.zhihu.com/" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" title='知乎' alt='知乎'/></a>&emsp;
     <!-- 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
