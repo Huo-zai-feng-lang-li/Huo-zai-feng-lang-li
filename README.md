@@ -30,10 +30,10 @@
   </div>
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  <div align="center" style="color: red;">  
-       <p>[ Huo-zai-feng-lang-li ] 👇 当天页面访问量</p>
+<div align="center" style="color: red;">  
+       <p><a href="https://github.com/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/edit/main" style="color: red;">[ Huo-zai-feng-lang-li ]</a> 👇 当天页面访问量</p>
       <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
-  </div>
+</div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
