@@ -27,8 +27,11 @@
     <a href="https://www.bilibili.com/video/BV1uz421d7Ch/?vd_source=5e9e4eda306e9f4a06044b5dcea74a7d" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" title='B站' alt='B站'/></a>&emsp;
     <a href="https://blog.csdn.net/m0_57904695?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" title='CSDN' alt='CSDN'/></a>&emsp;
     <a href="https://www.zhihu.com/" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" title='知乎' alt='知乎'/></a>&emsp;
-    <!-- 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
+  </div>
+
+  <div align="center" style="color: red;">  
+       <p>[ Huo-zai-feng-lang-li ] 当天页面访问量</p>
+      <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
