@@ -31,7 +31,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 <div align="center" style="color: red;">  
-       <p><a target="_blank" href="https://gitee.com/zhang-kun8888/Vite--Ts--Vue3---template" style="color: red;">[ Huo-zai-feng-lang-li ]</a> 👇 当天页面访问量</p>
+       <p><a target="_blank" href="https://gitee.com/zhang-kun8888/Vite--Ts--Vue3---template" style="color: red;">[ Huo-zai-feng-lang-li ]</a> 👇 views访问量</p>
       <img src="https://komarev.com/ghpvc/?username=Huo-zai-feng-lang-li&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
 </div>
   
