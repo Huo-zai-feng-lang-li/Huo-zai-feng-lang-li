@@ -68,7 +68,7 @@
 
 <img align="right" width="88" src="https://tse1-mm.cn.bing.net/th/id/OIP-C.vuV3dtfjS_6Be5pUYze_aQAAAA?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" />
 
-- [天阳宏业科技股份有限公司](https://www.tansun.com.cn/) &emsp; 📌 2023-05-12 —— 至今
+- [天阳宏业科技股份有限公司](https://www.tansun.com.cn/) &emsp; 📌 2021-05 —— 2024-10
 
   - 工作岗位：Web 前端架构师 Leader
   - 工作内容：这包括了搭建前端工程结构、制定前端工具链，项目初始化、风格检查、单元测试、代码构建配置、代码打包、部署上线以及监控与维护等关键环节。此外，设计了系统框架，实现了多语言支持、动态路由和菜单按钮权限设计，并成功定制了提高代码清晰度和灵活性的 NPM 私服及私有组件库。
@@ -78,7 +78,7 @@
   <div>&nbsp;</div>
     <img align="right" width="88" src="https://www.itrustnow.com/assets/logo.953c5d58.png" />
 
-- [数安信（北京）科技有限公司](https://www.itrustnow.com/) &emsp; 📌 2022-06-20 —— 2023-05-12
+- [数安信（北京）科技有限公司](https://www.itrustnow.com/) &emsp; 📌 2019-02 —— 2021-03
 
   - 工作岗位：Web 前端 Leader
   - 工作内容：提升系统是否高定制化、自由度和灵活性。负责代码的质量和性能的优化，保障项目的稳定性和可扩展性。
