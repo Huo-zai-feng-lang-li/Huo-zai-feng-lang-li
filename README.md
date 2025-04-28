@@ -3,7 +3,8 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.csdn.net/m0_57904695/article/details/131677759?spm=1001.2014.3001.5501">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);彩色之外祝您今天愉快!&center=true&size=27" />
+      <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);彩色之外祝您今天愉快!&center=true&size=27" /> -->
+      <img src="./github-metrics/dazi.svg" />
     </a>
   </div>
 
@@ -68,22 +69,41 @@
 
 <img align="right" width="88" src="https://tse1-mm.cn.bing.net/th/id/OIP-C.vuV3dtfjS_6Be5pUYze_aQAAAA?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" />
 
-- [天阳宏业科技股份有限公司](https://www.tansun.com.cn/) &emsp; 📌 2021-05 —— 至今
+- [天阳宏业科技股份有限公司](https://www.tansun.com.cn/) &emsp; 📌 2021-05 —— 至
+  今
 
   - 工作岗位：Web 前端架构师 Leader
-  - 工作内容：这包括了搭建前端工程结构、制定前端工具链，项目初始化、风格检查、单元测试、代码构建配置、代码打包、部署上线以及监控与维护等关键环节。此外，设计了系统框架，实现了多语言支持、动态路由和菜单按钮权限设计，并成功定制了提高代码清晰度和灵活性的 NPM 私服及私有组件库。
+  - 工作内容：这包括了搭建前端工程结构、制定前端工具链，项目初始化、风格检查、单
+  元测试、代码构建配置、代码打包、部署上线以及监控与维护等关键环节。此外，设计了
+  系统框架，实现了多语言支持、动态路由和菜单按钮权限设计，并成功定制了提高代码清
+  晰度和灵活性的 NPM 私服及私有组件库。
   <div>&nbsp;</div>
-  - 工作业绩：在启动过程组中，我确保了顶目的顺利启动；在规划过程组中，我制定了详尽的项目计划；在执行过程组中，我带领团队高效完成开发任务；在监控过程组中，我通过监控系统确保了项目质量；在收尾过程组中，完成了项目的最终测试，及系统性能、用户手册、技术文档的编写，确保了项目的顺利交付，项目取得了不错的结果，获得了客户较为满意认可。我学会了如何更有效地管理团队，和设计技术架构以及优化系统性能。
+  - 工作业绩：在启动过程组中，我确保了顶目的顺利启动；在规划过程组中，我制定了详
+  尽的项目计划；在执行过程组中，我带领团队高效完成开发任务；在监控过程组中，我通
+  过监控系统确保了项目质量；在收尾过程组中，完成了项目的最终测试，及系统性能、用
+  户手册、技术文档的编写，确保了项目的顺利交付，项目取得了不错的结果，获得了客户
+  较为满意认可。我学会了如何更有效地管理团队，和设计技术架构以及优化系统性能。
   <p style='font-size: 16px; font-weight: bold; '> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 我有良好的开发思路，严谨的代码规范，优秀的人际处事，较好的实战经验。所以我可以胜任下一份公司的资深软件工程师岗位。个人邮箱xcx6660000@126.com | zhangkun66666688888888@gmail.com</p>
   <div>&nbsp;</div>
     <img align="right" width="88" src="https://www.itrustnow.com/assets/logo.953c5d58.png" />
 
-- [北京京安佳新技术有限公司](https://www.itrustnow.com/) &emsp; 📌 2019-02 —— 2021-03
+- [北京京安佳新技术有限公司](https://www.itrustnow.com/) &emsp; 📌 2019-02 ——
+  2021-03
 
   - 工作岗位：Web 前端 Leader
-  - 工作内容：提升系统是否高定制化、自由度和灵活性。负责代码的质量和性能的优化，保障项目的稳定性和可扩展性。
+  - 工作内容：提升系统是否高定制化、自由度和灵活性。负责代码的质量和性能的优化，
+  保障项目的稳定性和可扩展性。
   <div>&nbsp;</div>
-  - 工作业绩：我在京安佳任职期间，我积极参与项目分析会，针对公司之前的老项目迭代、技术更新及新模块开发等问题提出建设性建议。因为公司要拆分前后端，技术比较古老，并且要新增业务模块。为促成项目概念的完整性。是否为全新的领域（技术架构），如果是首次构建，架构的重要性是十分强的，而对于现有的系统增加个接口，架构考虑就会小很多了，整体定位发生变化时判断好时机、内容，我们需要提前考虑到某些东西落地过程中可能存在的问题，避免实施时走进死胡同，或者未来而不断返工，比如，端口等等……，后期业务做任何变更的时候都要把端口的关系写清楚才可以去变更，并为非自己外的程序员留一份说明书。既然是迭代，项目完成时，应该有亮点，否则怎么体现项目的价值，并为下期项目做铺垫、建议在展示上下功夫，当然数据并发接口延迟也要着重去考虑。当时被领导采纳并获得了团队优秀新人奖项。
+  - 工作业绩：我在京安佳任职期间，我积极参与项目分析会，针对公司之前的老项目迭代
+  、技术更新及新模块开发等问题提出建设性建议。因为公司要拆分前后端，技术比较古老
+  ，并且要新增业务模块。为促成项目概念的完整性。是否为全新的领域（技术架构），如
+  果是首次构建，架构的重要性是十分强的，而对于现有的系统增加个接口，架构考虑就会
+  小很多了，整体定位发生变化时判断好时机、内容，我们需要提前考虑到某些东西落地过
+  程中可能存在的问题，避免实施时走进死胡同，或者未来而不断返工，比如，端口等等
+  ……，后期业务做任何变更的时候都要把端口的关系写清楚才可以去变更，并为非自己外的
+  程序员留一份说明书。既然是迭代，项目完成时，应该有亮点，否则怎么体现项目的价值
+  ，并为下期项目做铺垫、建议在展示上下功夫，当然数据并发接口延迟也要着重去考虑。
+  当时被领导采纳并获得了团队优秀新人奖项。
   <p style='font-size: 16px; font-weight: bold;color: #e65d08;';>……</P>
   </td></tr>
 
@@ -95,11 +115,19 @@
 
 <!-- START_SECTION:blog -->
 
-- <a href='https://zhang-kun8888.gitee.io/website-zhangkun---project/home.html' target='_blank'>【关于个人独立博客，我的折腾和思考】</a> - 2023-12-09
-- <a href='https://blog.csdn.net/m0_57904695/article/details/128318224?spm=1001.2014.3001.5502' target='_blank'>【提高代码可读性】—— 手握多个代码优化技巧、细数哪些惊艳一时的策略</a> - 2024-02-20
-- <a href='https://blog.csdn.net/m0_57904695/article/details/129950163?spm=1001.2014.3001.5502' target='_blank'>【从零搭建】 Vue3 + VIte + Ts 项目 —— 并集成 eslint 、prettier、stylelint、husky、lint-staged、pinia、axios、loding、动态路由…</a> - 2024-02-16
-- <a href='https://blog.csdn.net/m0_57904695/article/details/126118104?spm=1001.2014.3001.5502' target='_blank'>【你把 vite 打包 玩明白】</a> - 2024-01-03
-- <a href='https://gitee.com/zhang-kun8888/projects?sort=&scope=&state=public' target='_blank'>【Gitee 项目集】</a> - 2023-07-15
+- <a href='https://zhang-kun8888.gitee.io/website-zhangkun---project/home.html' target='_blank'>【
+  关于个人独立博客，我的折腾和思考】</a> - 2023-12-09
+- <a href='https://blog.csdn.net/m0_57904695/article/details/128318224?spm=1001.2014.3001.5502' target='_blank'>【
+  提高代码可读性】—— 手握多个代码优化技巧、细数哪些惊艳一时的策略</a> -
+  2024-02-20
+- <a href='https://blog.csdn.net/m0_57904695/article/details/129950163?spm=1001.2014.3001.5502' target='_blank'>【
+  从零搭建】 Vue3 + VIte + Ts 项目 —— 并集成 eslint
+  、prettier、stylelint、husky、lint-staged、pinia、axios、loding、动态路由
+  …</a> - 2024-02-16
+- <a href='https://blog.csdn.net/m0_57904695/article/details/126118104?spm=1001.2014.3001.5502' target='_blank'>【
+  你把 vite 打包 玩明白】</a> - 2024-01-03
+- <a href='https://gitee.com/zhang-kun8888/projects?sort=&scope=&state=public' target='_blank'>【Gitee
+项目集】</a> - 2023-07-15
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -112,12 +140,19 @@
 
 <!-- START_SECTION:brain -->
 
-- <a href='https://www.bilibili.com/video/BV1uz421d7Ch/?vd_source=5e9e4eda306e9f4a06044b5dcea74a7d' target='_blank'>【什么是前端开发】前端已死，前端永生</a> - 2024-02-20
-- <a href='https://zhang-kun8888.gitee.io/vue3-tools-docs/vue3-directive-tools.html' target='_blank'>NPM 插件集 - 文档</a> - 2023-03-25
-- <a href='https://www.npmjs.com/settings/huozaifenglangli/packages' target='_blank'>NPM ProFile</a> - 2023-09-07
-- <a href='https://zhang-kun8888.gitee.io/vite--ts--vue3---template/#/login' target='_blank'>Axios（取消重复请求、请求失败自动重试、请求接口数据缓存、父页面单独取消当前请求、父页面取消所有请求，请求进度条）</a> - 2023-09-07
-- <a href='https://zhang-kun8888.gitee.io/vite--ts--vue3---template/#/home' target='_blank'>VueHooks Plus 演示</a> - 2023-12-08
-- <a href='https://github.com/Huo-zai-feng-lang-li/Vue3-template' target='_blank'>VueHooks Plus 仓库地址</a> - 2023-12-08
+- <a href='https://www.bilibili.com/video/BV1uz421d7Ch/?vd_source=5e9e4eda306e9f4a06044b5dcea74a7d' target='_blank'>【
+  什么是前端开发】前端已死，前端永生</a> - 2024-02-20
+- <a href='https://zhang-kun8888.gitee.io/vue3-tools-docs/vue3-directive-tools.html' target='_blank'>NPM
+  插件集 - 文档</a> - 2023-03-25
+- <a href='https://www.npmjs.com/settings/huozaifenglangli/packages' target='_blank'>NPM
+  ProFile</a> - 2023-09-07
+- <a href='https://zhang-kun8888.gitee.io/vite--ts--vue3---template/#/login' target='_blank'>Axios（
+  取消重复请求、请求失败自动重试、请求接口数据缓存、父页面单独取消当前请求、父页
+  面取消所有请求，请求进度条）</a> - 2023-09-07
+- <a href='https://zhang-kun8888.gitee.io/vite--ts--vue3---template/#/home' target='_blank'>VueHooks
+  Plus 演示</a> - 2023-12-08
+- <a href='https://github.com/Huo-zai-feng-lang-li/Vue3-template' target='_blank'>VueHooks
+  Plus 仓库地址</a> - 2023-12-08
   <p align="center" width="600"><img align="center" width="600" src="./assets/images/VueHooks.gif" /></p>
 
 <!-- END_SECTION:brain -->
@@ -132,11 +167,16 @@
 
 <!-- START_SECTION:douban -->
 
-- <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-- <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-- <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-- <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+- <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉
+  醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+- <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极
+  简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克
+  的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+- <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活
+  着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+- <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如
+爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
